@@ -1,0 +1,10 @@
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\bin\Debug\FoodChain.Domain.dll.config
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\bin\Debug\FoodChain.Domain.dll
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\bin\Debug\FoodChain.Domain.pdb
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\obj\Debug\FoodChain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\obj\Debug\FoodChain.Domain.dll
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Domain\obj\Debug\FoodChain.Domain.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Common\bin\Debug\FoodChain.Common.dll
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Common\bin\Debug\FoodChain.Common.pdb
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Common\obj\Debug\FoodChain.Common.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Common\obj\Debug\FoodChain.Common.dll
+C:\Users\Nikhil\Desktop\Pizza\asp.net-mvc-PizzaStore-master\asp.net-mvc-PizzaStore-master\FoodChain.Common\obj\Debug\FoodChain.Common.pdb

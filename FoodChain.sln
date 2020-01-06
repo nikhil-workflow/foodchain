@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodChain.Web", "FoodChain.Web\FoodChain.Web.csproj", "{E64289EF-574D-4B3D-A94B-A6B3CBCEDB36}"
+	ProjectSection(ProjectDependencies) = postProject
+		{31304383-0BF0-4BDD-AFE1-D1E502366050} = {31304383-0BF0-4BDD-AFE1-D1E502366050}
+		{7FA27FC8-175B-471E-8C80-5666EDA0F8DC} = {7FA27FC8-175B-471E-8C80-5666EDA0F8DC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodChain.Test", "FoodChain.Test\FoodChain.Test.csproj", "{93719B40-3885-47C3-8AAF-CD6D5ED2195B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{31304383-0BF0-4BDD-AFE1-D1E502366050} = {31304383-0BF0-4BDD-AFE1-D1E502366050}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodChain.Domain", "FoodChain.Domain\FoodChain.Domain.csproj", "{31304383-0BF0-4BDD-AFE1-D1E502366050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodChain.Common", "FoodChain.Common\FoodChain.Common.csproj", "{7FA27FC8-175B-471E-8C80-5666EDA0F8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64289EF-574D-4B3D-A94B-A6B3CBCEDB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64289EF-574D-4B3D-A94B-A6B3CBCEDB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64289EF-574D-4B3D-A94B-A6B3CBCEDB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64289EF-574D-4B3D-A94B-A6B3CBCEDB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93719B40-3885-47C3-8AAF-CD6D5ED2195B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93719B40-3885-47C3-8AAF-CD6D5ED2195B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93719B40-3885-47C3-8AAF-CD6D5ED2195B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93719B40-3885-47C3-8AAF-CD6D5ED2195B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31304383-0BF0-4BDD-AFE1-D1E502366050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31304383-0BF0-4BDD-AFE1-D1E502366050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31304383-0BF0-4BDD-AFE1-D1E502366050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31304383-0BF0-4BDD-AFE1-D1E502366050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA27FC8-175B-471E-8C80-5666EDA0F8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA27FC8-175B-471E-8C80-5666EDA0F8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA27FC8-175B-471E-8C80-5666EDA0F8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA27FC8-175B-471E-8C80-5666EDA0F8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
